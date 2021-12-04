@@ -1,0 +1,12 @@
+body{
+    background-color: darkgreen;
+
+}
+.header{
+    font-weight: 900;
+    font-size: 50px;
+    color: black;
+}
+#msg{
+    width: fit-content;
+}
